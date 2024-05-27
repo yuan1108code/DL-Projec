@@ -3,6 +3,8 @@ __pycache__/
 *.py[cod]
 *$py.class
 *.zip
+*nptu-dl-final-project
+*.jpg
 # C extensions
 *.so
 
